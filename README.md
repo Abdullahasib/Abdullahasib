@@ -1,57 +1,82 @@
-# 👋 Hi, I'm MD Abdulla Al Hasib
+<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">MD Abdulla Al Hasib</span></h1>
 
-Welcome to my GitHub profile! 🚀  
+<p align="center">
+  🚀 <b>AI Engineer | Data Scientist | Machine Learning Enthusiast | Deep Learning & NLP Researcher</b> 🚀
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdulla-al-hasib&style=flat-square&color=blue)
-
-![Currently Coding](https://cdn.jsdelivr.net/gh/DenverCoder1/github-readme-streak-stats@master/assets/typing.gif)
-
----
-
-## 💡 About Me
-I explore **AI, Machine Learning, Deep Learning, NLP, and Computer Vision**, building **intelligent, data-driven solutions**. I actively contribute to open-source projects and experiment with cutting-edge AI techniques.  
-
----
-
-## 🔭 Currently Working On
-- Deep Learning & NLP Projects  
-- Intelligent AI Systems  
-- AI-driven Research Solutions  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulla-al-hasib/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:abdullanabin745@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <img src="https://komarev.com/ghpvc/?username=Abdullahasib&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-00C8FF?style=for-the-badge)
+## 🧠 About Me
+
+I’m a passionate **AI Engineer** dedicated to building intelligent systems and data-driven solutions. With strong foundations in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**, I transform complex datasets into actionable insights.  
+My work focuses on blending cutting-edge technology with innovative thinking to solve real-world problems.
+
+- 🔭 I’m currently working on **AI, ML, Deep Learning, NLP, and Data Science** projects.  
+- 💡 I love experimenting with **transformer models**, **neural networks**, and **NLP pipelines**.  
+- 🌱 I’m continuously learning about **data engineering**, **LLMs**, and **AI product deployment**.  
+- 🤝 I’m open to collaborating on **AI/ML research**, **open-source projects**, and **startups**.
 
 ---
 
-## 🤝 Open to Collaborating On
-- AI/ML Research  
-- Hackathons & Competitions  
-- Innovative Data-Driven Projects  
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</p>
 
 ---
 
-## 🏆 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulla-al-hasib&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulla-al-hasib&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulla-al-hasib&theme=radical)
+## 🚀 Focus Areas
+
+- 🤖 Artificial Intelligence (AI)  
+- 📊 Machine Learning & Data Science  
+- 🧠 Deep Learning (CNNs, RNNs, Transformers)  
+- 🗣️ Natural Language Processing (NLP)  
+- 🌐 Web Application Development
 
 ---
 
-## 🎨 Recent Projects
-- **[DeepVision](https://github.com/abdulla-al-hasib/DeepVision)** – Computer Vision-based Deep Learning project  
-- **[TextNLP](https://github.com/abdulla-al-hasib/TextNLP)** – NLP research project for text classification  
-- **[DiabeticRetinaAI](https://github.com/abdulla-al-hasib/DiabeticRetinaAI)** – AI model for diabetic retinopathy detection  
-- **[TradingBotAI](https://github.com/abdulla-al-hasib/TradingBotAI)** – Automated trading bot with ML strategies  
-- **[OpenGL-EiffelTower](https://github.com/abdulla-al-hasib/OpenGL-EiffelTower)** – 2D OpenGL project rendering Eiffel Tower  
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahasib&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahasib&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahasib&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abdulla-al-hasib/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:abdullanabin745@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/abdulla-al-hasib)
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulla-al-hasib/"><img src="https://img.shields.io/badge/LinkedIn-Abdulla%20Al%20Hasib-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:abdullanabin745@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## ✨ Quote I Live By
+
+> 💡 *"Turning data into intelligence and ideas into impactful solutions."*
+
+---
+
+<p align="center">
+  💻 Let's collaborate and build the future with AI 🚀  
+</p>
